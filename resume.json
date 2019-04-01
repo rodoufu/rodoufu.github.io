@@ -1,0 +1,38 @@
+{
+	"info": {
+		"name": "Rodolfo Araujo",
+		"sites": [
+			"https://www.linkedin.com/in/rodolfoara/",
+			"https://github.com/rodoufu"
+		],
+		"description": "Software engineer passionate for working with cutting-edge technologies and learning new things.  For the lastyears, I worked mainly in developing distributed and parallel applications for optimization problems.  Morerecently I’m working with the NeoResearch group to improve the Neo blockchain technology and its ecosystem,one of the Top 15+ most valuable cryptocurrencies."
+	},
+	"experience": [
+		{
+			"from": "2016",
+			"to": "",
+			"location": "Rio de Janeiro, Brazil",
+			"name": "National Institute of Cancer",
+			"position": "Systems Analyst",
+			"description": [
+				"Quality: Automated more than 500 web service functional tests using Cucumber.",
+				"Description: Development of C# .Net and Java Web applications to support the national cancer preventionprograms."
+			]
+		}
+	],
+	"education": {
+		
+	},
+	"projects": {
+		
+	},
+	"awards": {
+		
+	},
+	"publications": {
+		
+	},
+	"skills": {
+		
+	}
+}
